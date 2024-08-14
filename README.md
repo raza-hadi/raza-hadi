@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JavaScript.
 - 🌱 I’m currently learning JavaScrit.
 - 💞️ I’m looking to collaborate on anyone.
-- 📫 How to reach me <a href="https://instagram.com/mynameis.8149/">Instagram</a>(private account)
+- 📫 How to reach me <a href="https://instagram.com/mynameis.8149/" targrt="_blank">Instagram</a>(private account)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: nothing
 
